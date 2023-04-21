@@ -1,2 +1,2 @@
-# Cursoemvideoolamundo
- repositorio curso do git e github
+# Curso em video olamundo
+ repositorio curso do git e github docurso em video
